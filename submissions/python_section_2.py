@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_csv("C:\\Users\\User\\Downloads\\dataset-2.csv") #path of Dataset 2
+data = pd.read_csv("../Datasets/dataset-2.csv")
 import datetime
 
 # Question no 9

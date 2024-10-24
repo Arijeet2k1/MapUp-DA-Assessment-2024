@@ -3,7 +3,7 @@ import pandas as pd
 import polyline
 import math
 import re
-df=pd.read_csv("C:\\Users\\User\\Downloads\\dataset-1.csv")
+df=pd.read_csv("../Datasets/dataset-1.csv")
 
 
 # Question 1
