@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_csv("../Datasets/dataset-2.csv")
+data = pd.read_csv("../datasets/dataset-2.csv")
 import datetime
 
 # Question no 9
